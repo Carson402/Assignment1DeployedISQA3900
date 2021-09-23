@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+venv
+*.pyc
+__pycache__
+local_settings.py
+.idea
+db.sqlite3
